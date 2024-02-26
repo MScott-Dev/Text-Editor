@@ -9,7 +9,6 @@
 [Installation](#Installation) <br>
 [Features](#Features) <br>
 [Usage](#Usage) <br>
-[Future Development](#Future) <br>
 [Contribution](#Contribution) <br>
 [Author](#Author) <br>
 [License](#License) <br>
