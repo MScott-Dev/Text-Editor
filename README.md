@@ -1,7 +1,5 @@
 # Text Editor <br>
 
-<br>
-<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
@@ -18,14 +16,10 @@
 [Questions](#Questions) <br>
 
 ## Description <a name="Description"></a>
-A Social Network API that utilizes CRUD (Create, Read, Update, Delete) routes. This API allows us to 
-1. Create: users, thoughts, and reactions to other people's thoughts
-2. Read: All users or thoughts and a specific user or thought
-3. Update: Users and thoughts while also updating the user if a new thought or friend is added
-4. Delete: Users, thoughts, reactions and friends 
+A Progressive Web App (PWA) text editor website combines the features of a traditional text editor with the advantages of a Progressive Web App, offering users a seamless and responsive experience allowing users to install it directly from their browsers onto their devices.
 
-## Live Recording and Screenshots <a name="LRaS"></a>
-
+## Screenshot <a name="LRaS"></a>
+<img src="https://imgur.com/wUO5tgw.png" alt="text-editor-website" /> <br>
 ## Technologies Used <a name="Technologies"></a>
 <ul>
   <li>JavaScript</li>
@@ -47,18 +41,15 @@ A Social Network API that utilizes CRUD (Create, Read, Update, Delete) routes. T
 6. Open Insomnia and make a request. Examples can be found in screenshots above
 
 ## Features <a name="Features"></a>
-This API features all REST routes for a social media application for a total of 14 total routes. There's 4 GET routes, There's 4 POST routes, There's 2 PUT routes, and there's 4 DELETE routes
+
 
 ## Usage <a name="Usage"></a>
-1. Create: users, thoughts, and reactions to other people's thoughts
-2. Read: All users or thoughts and a specific user or thought
-3. Update: Users and thoughts while also updating the user if a new thought or friend is added
-4. Delete: Users, thoughts, reactions and friends
+
 
 ## Future Development <a name="Future"></a>
 <ul>
-  <li>A fully working website using this API which acts as a simple social media platform</li>
-  <li>Seed data to allow future users to test the routes easier</li>
+  <li></li>
+  <li></li>
 </ul>
 
 ## Contributions <a name="Contribution"></a>
