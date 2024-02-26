@@ -33,15 +33,21 @@ Live Link:
   <li>workbox-webpack-plugin</li>
   <li>Nodemon</li>
   <li>concurrently</li>
+  <li>IndexedDB</li>
+  <li>idb</li>
 </ul>
 
 ## Installation <a name="Installation"></a>
-1. You will need Insomnia and MongoDB installed
-2. Clone this repo locally
-3. Open it inside of VS Code
-4. Inside the ternimal, run <code>npm i</code>
-5. Run <code>npm run start</code>
-6. Open Insomnia and make a request. Examples can be found in screenshots above
+Locally
+1. Clone this repo locally 
+2. Open it inside of VS Code
+3. Inside the ternimal, run <code>npm run install</code>
+4. Run <code>npm run build</code>
+5. Run <code>npm run start:dev</code>
+6. Open up Localhost:3000 on your browser
+
+Live
+1. Click the link found in <a name="LRaS">Screenshot and Live Link</a>
 
 ## Features <a name="Features"></a>
 
