@@ -4,7 +4,7 @@
 
 ## Table of Contents
 [Description](#Description) <br>
-[Live Recording and Screenshots](#LRaS) <br>
+[Screenshots and Live Link](#LRaS) <br>
 [Technologies Used](#Technologies) <br>
 [Installation](#Installation) <br>
 [Features](#Features) <br>
@@ -18,18 +18,21 @@
 ## Description <a name="Description"></a>
 A Progressive Web App (PWA) text editor website combines the features of a traditional text editor with the advantages of a Progressive Web App, offering users a seamless and responsive experience allowing users to install it directly from their browsers onto their devices.
 
-## Screenshot <a name="LRaS"></a>
+## Screenshot and Live Link <a name="LRaS"></a>
 <img src="https://imgur.com/wUO5tgw.png" alt="text-editor-website" /> <br>
+Live Link: 
+
 ## Technologies Used <a name="Technologies"></a>
 <ul>
   <li>JavaScript</li>
   <li>NodeJS</li>
   <li>ExpressJS</li>
-  <li>MongoDB</li>
-  <li>Mongoose</li>
-  <li>DayJS</li>
-  <li>ValidatorJS</li>
+  <li>Webpack</li>
+  <li>webpack-cli</li>
+  <li>webpack-dev-server</li>
+  <li>workbox-webpack-plugin</li>
   <li>Nodemon</li>
+  <li>concurrently</li>
 </ul>
 
 ## Installation <a name="Installation"></a>
