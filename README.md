@@ -47,7 +47,7 @@ Locally
 6. Open up Localhost:3000 on your browser
 
 Live
-1. Click the link found in <a name="LRaS">Screenshot and Live Link</a>
+1. Click the link found in [Screenshots and Live Link](#LRaS)
 
 ## Features <a name="Features"></a>
 
