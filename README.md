@@ -35,6 +35,7 @@ Live Link:
   <li>concurrently</li>
   <li>IndexedDB</li>
   <li>idb</li>
+  <li>Render</li>
 </ul>
 
 ## Installation <a name="Installation"></a>
@@ -50,16 +51,15 @@ Live
 1. Click the link found in [Screenshots and Live Link](#LRaS)
 
 ## Features <a name="Features"></a>
-
+<ul>
+  <li>Progessive Web App</li>
+  <li>Installable</li>
+  <li>Works online and offline</li>
+  <li>Saves data even if the page closes</li>
+</ul>
 
 ## Usage <a name="Usage"></a>
-
-
-## Future Development <a name="Future"></a>
-<ul>
-  <li></li>
-  <li></li>
-</ul>
+A simple text editor to save anything you need! Can be installed locally and works completely offline!
 
 ## Contributions <a name="Contribution"></a>
 If you think you can improve this project, Send me a message! info at the bottom
