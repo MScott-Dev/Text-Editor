@@ -18,8 +18,8 @@
 A Progressive Web App (PWA) text editor website combines the features of a traditional text editor with the advantages of a Progressive Web App, offering users a seamless and responsive experience allowing users to install it directly from their browsers onto their devices.
 
 ## Screenshot and Live Link <a name="LRaS"></a>
-<img src="https://imgur.com/wUO5tgw.png" alt="text-editor-website" /> <br>
-Live Link: 
+<img src="https://imgur.com/wUO5tgw.png" alt="text-editor-website" /> <br> <br>
+Live Link: https://just-another-text-editor-dfz1.onrender.com/
 
 ## Technologies Used <a name="Technologies"></a>
 <ul>
